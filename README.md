@@ -13,7 +13,7 @@ Raw Data → Snowflake → Analytics Views → Power BI → Executive Dashboard
 ---
 
 ## Project Architecture
-![Project Architecture](schema.png)
+![Project Architecture](https://github.com/Godsbrain/covid19-global-analytics-snowflake-powerbi/raw/main/schema.png)
 
 The project follows a layered architecture:
 
