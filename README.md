@@ -205,6 +205,5 @@ Potential project improvements:
 
 GitHub: https://github.com/Godsbrain
 
-LinkedIn: Add your LinkedIn profile here
 
 Location: Winnipeg, MB, Canada
