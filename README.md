@@ -135,8 +135,7 @@ Users can filter results by:
 ---
 
 ## Dashboard Preview
-
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](https://github.com/Godsbrain/covid19-global-analytics-snowflake-powerbi/raw/main/Dashboard.png)
 
 ---
 
